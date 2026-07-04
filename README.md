@@ -2,7 +2,7 @@
 Hi! I'm Austin Bartek.<br>
 $$\color{green}{I\ LOVE\ TO\ CODE!\ :\)}$$
 
-<img src="https://th.bing.com/th/id/R.1602b26c05ee78120695d592a68b8912?rik=9O1u%2bLpA2RRIQw&riu=http%3a%2f%2fwww.textures4photoshop.com%2ftex%2fthumbs%2fmatrix-code-animation-gif-free-animated-background-716.gif&ehk=WUVCioIV7kR5uuDGvMDZqWHy7xCswZFIHgwKQewHnS4%3d&risl=&pid=ImgRaw&r=0" width="300" height="300" alt="Falling Matrix Code Image">
+<img src="https://th.bing.com/th/id/R.1602b26c05ee78120695d592a68b8912?rik=9O1u%2bLpA2RRIQw&riu=http%3a%2f%2fwww.textures4photoshop.com%2ftex%2fthumbs%2fmatrix-code-animation-gif-free-animated-background-716.gif&ehk=WUVCioIV7kR5uuDGvMDZqWHy7xCswZFIHgwKQewHnS4%3d&risl=&pid=ImgRaw&r=0" width="200" height="200" alt="Falling Matrix Code Image">
 
 ## Coding Experience
 I am a self-taught coder with skills in Java, Javascript, HTML, CSS, Python, GLSL, Arduino, and Batch.<br>
